@@ -9,6 +9,7 @@ import Courses from './pages/Courses';
 import Certificates from './pages/Certificates';
 import Recruiter from './pages/Recruiter';
 import Profile from './pages/Profile';
+import OutsourceTasks from './pages/OutsourceTasks';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/support" element={<Recruiter />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/outsourcetasks" element={<OutsourceTasks />} />
         <Route path="/profile" element={<Profile />} />
       </Routes>
       <Footer />

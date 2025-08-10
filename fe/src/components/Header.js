@@ -22,6 +22,7 @@ function Header() {
           <Button component={Link} href="/courses" color="inherit" sx={{ mx: 1 }}>Khóa học</Button>
           <Button component={Link} href="/certificates" color="inherit" sx={{ mx: 1 }}>Chứng chỉ</Button>
           <Button component={Link} href="/support" color="inherit" sx={{ mx: 1 }}>Hỗ trợ</Button>
+          <Button component={Link} href="/outsourcetasks" color="inherit" sx={{ mx: 1 }}>Công việc outsource</Button>
           <Button component={Link} href="/login" color="secondary" variant="outlined" sx={{ mx: 1, borderRadius: 2 }}>Đăng nhập</Button>
         </Box>
       </Toolbar>

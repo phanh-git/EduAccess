@@ -8,21 +8,21 @@ const coursesData = [
     title: 'Kỹ năng tin học văn phòng',
     desc: 'Thành thạo Word, Excel, PowerPoint cho công việc.',
     level: 'Cơ bản',
-    img: 'https://source.unsplash.com/400x200/?office,computer'
+    img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80"
   },
   {
     id: 2,
     title: 'Lập trình căn bản',
     desc: 'Nhập môn lập trình Python cho người mới bắt đầu.',
     level: 'Trung bình',
-    img: 'https://source.unsplash.com/400x200/?coding,python'
+    img: 'https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80'
   },
   {
     id: 3,
     title: 'Kỹ năng giao tiếp',
     desc: 'Nâng cao kỹ năng giao tiếp, phỏng vấn xin việc.',
     level: 'Nâng cao',
-    img: 'https://source.unsplash.com/400x200/?communication,meeting'
+    img: 'https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=600&q=80'
   }
 ];
 
